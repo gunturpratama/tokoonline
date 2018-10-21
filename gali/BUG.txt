@@ -1,0 +1,6 @@
+- Fitur search product Pada halaman user belum bisa
+-Produk belum hilang di list produk saat stok habis
+-Belum mengurangkan stok produk setelah checkout pesanan
+-Jika pesanan belum dikonfirmasi pembayaran 1x24 Jam maka otomatis pesanan akan batal dan mengembalikan stok produk-produk yang ada di pesanan itu
+-Belum ada pengkategorian side-navbar menu saat level user berbeda di dashboard admin
+-Pada dashboard admin jumlah pesanan baru,dll masih statis
